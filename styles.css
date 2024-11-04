@@ -5,12 +5,17 @@ body {
   background-position-x: center;
   background-position-y: center;
   color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(url(hatter.jpg));
 }
 
 #tartalom {
   background-color: rgba(4, 42, 63, 0.8);
   margin-bottom: 20px;
   padding: 40px;
+  width: 900px;
+margin: auto;
+
 }
 
 .keret {
@@ -44,3 +49,10 @@ td {
   border: 1px solid rgb(58, 189, 201);
   padding: 5px;
 }
+#azure{
+
+  font-weight: bold;
+  color: cyan;
+}
+
+
